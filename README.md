@@ -34,8 +34,6 @@ In particular:
 
 * Basic layouts and widgets
 * Some familiarity with Uris and File I/O
-* Familiarity with [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
-  and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
 Getting Started
 ---------------
@@ -62,8 +60,6 @@ issue.](https://developer.android.com/studio/known-issues#known_issues_with_the_
 
 License
 -------
-
-Copyright 2018 Google, Inc.
 
 All image and audio files (including *.png, *.jpg, *.svg, *.mp3, *.wav
 and *.ogg) are licensed under the CC BY 4.0 license. All other files are
